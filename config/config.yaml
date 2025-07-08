@@ -1,0 +1,2 @@
+raw_json_path: data/raw/College_student_sample_data.json
+flattened_csv_path: data/raw/College_student_sample_data.csv
